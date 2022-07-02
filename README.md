@@ -1,2 +1,2 @@
 # Team-Admin
-Pull request lecture
+Team Admin
